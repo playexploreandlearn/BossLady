@@ -14,12 +14,13 @@ document.documentElement.className = document.documentElement.className.replace(
 if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
   
-  <title>HOME</title>
+  <link rel="shortcut icon" href="images/home-favicon.ico?crc=4182416170"/>
+  <title>Play, Explore &amp; Learn</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=137446834"/>
   <link rel="stylesheet" type="text/css" href="css/master_texture.css?crc=94070937"/>
   <link rel="stylesheet" type="text/css" href="css/master_texture_wfill.css?crc=261716554"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=182707026" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=471588971" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
@@ -46,8 +47,17 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- group -->
+   <div class="grpelem" id="u16815"><!-- simple frame --></div>
    <div class="grpelem" id="u6945"><!-- simple frame --></div>
-   <div class="grpelem" id="u11104"><!-- simple frame --></div>
+   <div class="grpelem" id="u4813"><!-- custom html -->
+    
+<div class="vid">
+	<video autoplay loop muted>
+		<source src="assets/detroitkids.mp4" type="video/mp4">
+		 Sorry, it looks like your browser is out of date. Please update it to view our video content.
+	</video>
+</div>
+   </div>
    <div class="clearfix grpelem" id="pu13200"><!-- group -->
     <div class="grpelem" id="u13200"><!-- simple frame --></div>
     <div class="grpelem" id="u13368"><!-- simple frame --></div>
@@ -64,44 +74,29 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
     <div class="grpelem" id="u17316"><!-- simple frame --></div>
    </div>
-   <div class="clearfix grpelem" id="pu4813"><!-- group -->
-    <div class="grpelem" id="u4813"><!-- custom html -->
-     
-<div class="vid">
-	<video autoplay loop muted>
-		<source src="assets/detroitkids.mp4" type="video/mp4">
-		 Sorry, it looks like your browser is out of date. Please update it to view our video content.
-	</video>
-</div>
-    </div>
-    <div class="grpelem" id="u16815"><!-- simple frame --></div>
-    <div class="clip_frame grpelem" id="u2171"><!-- image -->
-     <img class="block" id="u2171_img" src="images/pel_logo.png?crc=3881954488" alt="" width="421" height="307"/>
-    </div>
+   <div class="clip_frame grpelem" id="u2171"><!-- image -->
+    <img class="block" id="u2171_img" src="images/pel_logo.png?crc=3881954488" alt="" data-image-width="421" data-image-height="307"/>
    </div>
-   <nav class="MenuBar clearfix grpelem" id="menuu263"><!-- horizontal box -->
-    <div class="MenuItemContainer clearfix grpelem" id="u285"><!-- vertical box -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive shadow rounded-corners clearfix colelem" id="u288" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u291-4"><!-- content --><p>HOME</p></div></a>
-    </div>
-    <div class="MenuItemContainer clearfix grpelem" id="u278"><!-- vertical box -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu shadow rounded-corners clearfix colelem" id="u279" href="our-work.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u280-4"><!-- content --><p>OUR WORK</p></div></a>
-    </div>
-    <div class="MenuItemContainer clearfix grpelem" id="u302"><!-- vertical box -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu shadow rounded-corners clearfix colelem" id="u303" href="our-services.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u305-4"><!-- content --><p>OUR SERVICES</p></div></a>
-    </div>
-    <div class="MenuItemContainer clearfix grpelem" id="u680"><!-- vertical box -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu shadow rounded-corners clearfix colelem" id="u681" href="about.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u684-4"><!-- content --><p>ABOUT</p></div></a>
-    </div>
-    <div class="MenuItemContainer clearfix grpelem" id="u16625"><!-- vertical box -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu shadow rounded-corners clearfix colelem" id="u16628" href="contact-us.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u16631-4"><!-- content --><p>CONTACT US</p></div></a>
-    </div>
-   </nav>
-   <div class="clearfix grpelem" id="u11092"><!-- group -->
-    <div class="grpelem" id="u11094"><!-- simple frame --></div>
-    <div class="grpelem" id="u11095"><!-- simple frame --></div>
-   </div>
-   <div class="grpelem" id="u638"><!-- custom html -->
-    <script type="text/javascript">
+   <div class="clearfix grpelem" id="pmenuu263"><!-- column -->
+    <nav class="MenuBar clearfix colelem" id="menuu263"><!-- horizontal box -->
+     <div class="MenuItemContainer clearfix grpelem" id="u285"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive shadow rounded-corners clearfix colelem" id="u288" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u291-4"><!-- content --><p>HOME</p></div></a>
+     </div>
+     <div class="MenuItemContainer clearfix grpelem" id="u278"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu shadow rounded-corners clearfix colelem" id="u279" href="our-work.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u280-4"><!-- content --><p>OUR WORK</p></div></a>
+     </div>
+     <div class="MenuItemContainer clearfix grpelem" id="u302"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu shadow rounded-corners clearfix colelem" id="u303" href="our-services.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u305-4"><!-- content --><p>OUR SERVICES</p></div></a>
+     </div>
+     <div class="MenuItemContainer clearfix grpelem" id="u680"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu shadow rounded-corners clearfix colelem" id="u681" href="about.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u684-4"><!-- content --><p>ABOUT</p></div></a>
+     </div>
+     <div class="MenuItemContainer clearfix grpelem" id="u16625"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu shadow rounded-corners clearfix colelem" id="u16628" href="contact-us.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u16631-4"><!-- content --><p>CONTACT US</p></div></a>
+     </div>
+    </nav>
+    <div class="colelem" id="u638"><!-- custom html -->
+     <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script>
@@ -111,6 +106,7 @@ try {var pageTracker = _gat._getTracker("UA-XXXXXXX-X");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
+    </div>
    </div>
    <div class="clearfix grpelem" id="pu13360"><!-- group -->
     <div class="grpelem" id="u13360"><!-- simple frame --></div>
@@ -118,7 +114,6 @@ pageTracker._trackPageview();
     <div class="grpelem" id="u13356"><!-- simple frame --></div>
    </div>
    <div class="grpelem" id="u14752"><!-- simple frame --></div>
-   <div class="grpelem" id="u14915"><!-- simple frame --></div>
    <div class="grpelem" id="u14588"><!-- simple frame --></div>
   </div>
   <!-- Other scripts -->
@@ -130,7 +125,7 @@ f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.require
 var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
-Muse.Utils.prepHyperlinks(false);/* body */
+Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.BossLady.com/index.html</loc>
-    <lastmod>2018-02-08</lastmod>
+    <lastmod>2018-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>http://www.BossLady.com/our-services.html</loc>
-    <lastmod>2018-02-03</lastmod>
+    <lastmod>2018-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -23,7 +23,7 @@
   </url>
   <url>
     <loc>http://www.BossLady.com/our-work.html</loc>
-    <lastmod>2018-08-16</lastmod>
+    <lastmod>2018-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -41,23 +41,23 @@
   </url>
   <url>
     <loc>http://www.BossLady.com/about.html</loc>
-    <lastmod>2018-08-16</lastmod>
+    <lastmod>2018-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://www.BossLady.com/images/kidsplayingsun.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://www.BossLady.com/images/pel_logo259x189.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://www.BossLady.com/contact-us.html</loc>
-    <lastmod>2018-08-16</lastmod>
+    <lastmod>2018-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.BossLady.com/images/pel_logo259x189.png</image:loc>
+      <image:loc>http://www.BossLady.com/images/pasted%20image%20251x201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.BossLady.com/images/pasted%20image%20296x171.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.BossLady.com/images/email-crop-u15846.png</image:loc>
