@@ -1,74 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.playexploreandlearn.org/index.html</loc>
-    <lastmod>2018-09-11</lastmod>
+    <loc>http://playexploreandlearn.org/index.html</loc>
+    <lastmod>2020-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://playexploreandlearn.org/phone/index.html"/>
     <image:image>
-      <image:loc>http://www.playexploreandlearn.org/images/pel_logo.png</image:loc>
+      <image:loc>http://playexploreandlearn.org/images/pel_logo.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://www.playexploreandlearn.org/our-services.html</loc>
-    <lastmod>2018-09-11</lastmod>
+    <loc>http://playexploreandlearn.org/our-services.html</loc>
+    <lastmod>2020-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://playexploreandlearn.org/phone/our-services.html"/>
     <image:image>
-      <image:loc>http://www.playexploreandlearn.org/images/kidsplayingsun.jpg</image:loc>
+      <image:loc>http://playexploreandlearn.org/images/kidsplayingsun.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.playexploreandlearn.org/images/pel_logo259x189.png</image:loc>
+      <image:loc>http://playexploreandlearn.org/images/pel_logo.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://www.playexploreandlearn.org/our-work.html</loc>
-    <lastmod>2018-09-11</lastmod>
+    <loc>http://playexploreandlearn.org/our-work.html</loc>
+    <lastmod>2020-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://playexploreandlearn.org/phone/our-work.html"/>
     <image:image>
-      <image:loc>http://www.playexploreandlearn.org/images/pel_logo.png</image:loc>
+      <image:loc>http://playexploreandlearn.org/images/kidsplayingsun.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.playexploreandlearn.org/images/kidsplayingsun.jpg</image:loc>
+      <image:loc>http://playexploreandlearn.org/images/pel_logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.playexploreandlearn.org/images/pasted%20image%20392x445.jpg</image:loc>
+      <image:loc>http://playexploreandlearn.org/images/pasted%20image%20392x445.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.playexploreandlearn.org/images/pasted%20image%20267x370.jpg</image:loc>
+      <image:loc>http://playexploreandlearn.org/images/pasted%20image%20267x370.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://www.playexploreandlearn.org/about.html</loc>
-    <lastmod>2018-09-11</lastmod>
+    <loc>http://playexploreandlearn.org/about.html</loc>
+    <lastmod>2020-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://playexploreandlearn.org/phone/about.html"/>
     <image:image>
-      <image:loc>http://www.playexploreandlearn.org/images/kidsplayingsun.jpg</image:loc>
+      <image:loc>http://playexploreandlearn.org/images/kidsplayingsun.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://playexploreandlearn.org/images/pel_logo.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://www.playexploreandlearn.org/contact-us.html</loc>
-    <lastmod>2018-09-11</lastmod>
+    <loc>http://playexploreandlearn.org/contact.html</loc>
+    <lastmod>2020-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://playexploreandlearn.org/phone/contact.html"/>
     <image:image>
-      <image:loc>http://www.playexploreandlearn.org/images/pasted%20image%20251x201.jpg</image:loc>
+      <image:loc>http://playexploreandlearn.org/images/pel_kinston.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.playexploreandlearn.org/images/pasted%20image%20296x171.jpg</image:loc>
+      <image:loc>http://playexploreandlearn.org/images/phone_clipart.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.playexploreandlearn.org/images/email-crop-u15846.png</image:loc>
+      <image:loc>http://playexploreandlearn.org/images/pel_logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.playexploreandlearn.org/images/pel_kinston.png</image:loc>
+      <image:loc>http://playexploreandlearn.org/images/cellphone-crop-u3346.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://www.playexploreandlearn.org/assets/detroitkids.mp4</loc>
-    <lastmod>2018-01-20</lastmod>
+    <loc>http://playexploreandlearn.org/assets/detroitkids.mp4</loc>
+    <lastmod>2018-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
