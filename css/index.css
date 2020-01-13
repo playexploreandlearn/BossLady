@@ -1,1 +1,66 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  //CSS
+  
+}
 .version.index{color:#0000F2;background-color:#93F129;}#page{z-index:1;min-height:676px;background-image:none;border-width:0px;border-color:#000000;background-color:transparent;width:100%;max-width:960px;margin-left:auto;margin-right:auto;}#pu3251{z-index:2;margin-right:-10000px;margin-top:-4px;width:92.19%;margin-left:-6.05%;}#u3251{z-index:2;min-height:539px;border-width:0px;border-color:transparent;background-color:transparent;position:relative;margin-right:-10000px;margin-top:4px;width:82.6%;left:17.41%;}#u3155{z-index:37;position:relative;margin-right:-10000px;width:47.58%;}#u3193{z-index:50;width:551px;border-width:0px;border-color:transparent;background-color:transparent;position:relative;margin-right:-10000px;margin-top:-34px;left:409px;}#u3165-6{z-index:51;display:block;vertical-align:top;margin-left:59px;position:relative;}#u3167-7{z-index:57;display:block;vertical-align:top;margin-top:79px;position:relative;}#pu3168-4{z-index:64;width:0.01px;margin-left:51px;margin-top:5px;}#u3168-4{z-index:64;width:333px;min-height:159px;background-color:transparent;font-size:18px;line-height:22px;color:#FFFFFF;position:relative;margin-right:-10000px;left:11px;}#u3170-7{z-index:68;display:block;vertical-align:top;position:relative;margin-right:-10000px;margin-top:43px;}#u3186-4{z-index:75;display:block;vertical-align:top;position:relative;margin-right:-10000px;margin-top:70px;left:94px;}#u3162{z-index:39;height:527px;background-color:#7F7F7F;opacity:0.27;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=27)";filter:alpha(opacity=27);position:relative;margin-right:-10000px;width:39.9%;left:45.73%;}#pu3166-4{z-index:40;width:0.01px;padding-bottom:0px;margin-right:-10000px;margin-top:128px;margin-left:460px;}#u3166-4{z-index:40;width:344px;min-height:159px;background-color:transparent;font-size:18px;line-height:22px;color:#FFFFFF;position:relative;}#u3169-6{z-index:44;width:353px;min-height:48px;background-color:transparent;font-size:18px;line-height:22px;color:#FFFFFF;margin-left:7px;margin-top:187px;position:relative;}#u2081{z-index:79;min-height:134px;position:relative;margin-right:-10000px;margin-top:90px;width:20.84%;left:57.82%;}.css_verticalspacer .verticalspacer{height:calc(100vh - 666px);}#u3886{z-index:3;background-color:#000000;padding-bottom:8px;position:relative;margin-right:-10000px;width:117.3%;left:-10.53%;}#u3255{z-index:4;position:relative;margin-right:-10000px;margin-top:5px;width:75.05%;left:14.66%;}#u3137-4{z-index:5;position:relative;margin-right:-10000px;width:10.89%;left:0.12%;}#u3140-4{z-index:17;position:relative;margin-right:-10000px;width:19.41%;left:14.09%;}#u3138-4{z-index:9;position:relative;margin-right:-10000px;width:12.79%;left:35.98%;}#u3139-4{z-index:13;position:relative;margin-right:-10000px;width:27.93%;left:51.48%;}#u3141-4{z-index:21;position:relative;margin-right:-10000px;width:17.28%;left:82.73%;}#u598-12{z-index:25;min-height:87px;position:relative;margin-right:-10000px;margin-top:33px;width:84.82%;left:10.75%;}#muse_css_mq,.html{background-color:#FFFFFF;}body{position:relative;min-width:320px;}.verticalspacer{min-height:50px;}#u3155_img,#u3137-4_img,#u3140-4_img,#u3138-4_img,#u3139-4_img,#u3141-4_img{width:100%;}
